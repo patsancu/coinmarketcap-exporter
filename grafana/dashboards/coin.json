@@ -2106,7 +2106,8 @@
         "tagsQuery": "",
         "type": "query",
         "useTags": true
-      },
+      }
+    ]
   },
   "time": {
     "from": "now-2d",
